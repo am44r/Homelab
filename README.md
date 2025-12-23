@@ -11,4 +11,4 @@ logic for my personal virtualization environment.
 
 ## 📖 Documentation
 Detailed setup guides, hardware modifications, and network diagrams can be 
-found in the [Project Wiki](link-to-your-wiki-here).
+found in the [Project Wiki](https://github.com/am44r/Homelab/wiki).
